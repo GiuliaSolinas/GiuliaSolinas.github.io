@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Dr. Giulia Solinas
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Giulia
+last_name: Solinas
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
@@ -23,27 +23,27 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Data Science and AI Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: CROZ
+    url: https://croz.net/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:gsolinas@croz.net'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/GiuliaSolinas1
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/GiuliaSolinas
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/dr-giulia-solinas-2b819071/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=0SKVFagAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
