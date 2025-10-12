@@ -45,21 +45,21 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=0SKVFagAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0002-1723-110X
 
 interests:
   - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Artificial intelligence (generative and predictive AI)
+  - Semantic similarity
+  - AI Governance
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD in Management
+    institution: Bayes Business School, City University London
+    date_start: 2011-09-01
+    date_end: 2017-02-01
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Three essays on the economics and management of IP departments. 
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
@@ -119,24 +119,26 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Hiking in the Alps with my family
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Cycling with my gravel bike
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Learning how to code better
         description: ''
         percent: 70
         icon: book-open
 
 languages:
+  - name: Italian
+    percent: 100
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name : German
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -166,4 +168,8 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+IBM Champion and experienced AI consultant and data scientist with 15 years of expertise in applied statistics, machine learning, and data-driven system design. I architect and prototype GenAI and NLP solutions—from RAG pipelines to semantic search assistants—while bridging business needs and technical execution across industries. As a practitioner and former university faculty member, I combine in-depth modeling expertise with cross-functional leadership in pre-sales, AI enablement, and enterprise consulting.
+
+Curious about start-ups that do good in the world.
+
+Loves mountains, pizza, and my family.
