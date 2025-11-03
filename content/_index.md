@@ -44,17 +44,6 @@ sections:
         - ⚡ Fun fact: I lived in Switzerland, the UK, Denmark, and Germany, but I am Italian deep in my soul, so never ask me if I fancy a pineapple pizza.
     design:
       columns: '1'
-  #- block: collection
-  #  id: papers
-  #  content:
-  #    title: My Academic Stint: My Publications
-  #    filters:
-  #      folders:
-  #        - publications
-  #      featured_only: true
-  #  design:
-  #    view: article-grid
-  #    columns: 2
   - block: collection
     id: news
     content:
@@ -95,7 +84,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: My Academic Stint: Publications
+      title: My Academic Stint and Publications
       text: ''
       filters:
         folders:
