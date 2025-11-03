@@ -14,7 +14,7 @@ pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 👩‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -48,73 +48,97 @@ profiles:
     url: https://orcid.org/0000-0002-1723-110X
 
 interests:
-  - Large Language Models
-  - Artificial intelligence (generative and predictive AI)
+  - AI Agents 
+  - Artificial Intelligence (generative and predictive AI)
   - Semantic similarity
   - AI Governance
+  - Digital transformation and innovation
 
 education:
   - area: PhD in Management
-    institution: Bayes Business School, City University London
+    institution: Bayes Business School, City University London (UK)
     date_start: 2011-09-01
     date_end: 2017-02-01
     summary: |
       Three essays on the economics and management of IP departments. 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      text: 'Read Thesis (Open Access)'
+      url: 'https://openaccess.city.ac.uk/id/eprint/17106/'
+  - area: PhD in Strategy and Business Administration
+    institution: University of Verona (IT)
     date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_end: 2013-07-31
     summary: |
-      GPA: 3.9/4.0
+      The Commercialization of Intangible Assets: Theoretical and Empirical Inquiry on Patents. 
+  - area: MRes Management
+    institution: Bayes Business School, City University London (UK)
+    date_start: 2011-09-01
+    date_end: 2012-07-31
+    summary: |
+      The Antecedents of IP Commercialization.
+  - area: MS Economics and Business
+    institution: University of Verona (IT)
+    date_start: 2007-10-01
+    date_end: 2009-07-31
+    summary: |
+      The application of the Endogenous Growth Theory on the strategic management of intangible assets: a theoretical inquiry.
 
-      Minored in Mathematics. President of AI Club.
+      Major in Economics (110/110 cum laude, Academic Award).
+  - area: BS Economics
+    institution: University of Verona (IT)
+    date_start: 2004-10-01
+    date_end: 2007-09-01
+    summary: |
+      Game Theory and Public Goods: How to Sustain Cooperation in Individual Choices.
+      
+      Major in Economics (105/110)
+      
+      
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Data Science and AI Consultant
+    company_name: CROZ
+    company_url: 'https://croz.net/'
     company_logo: ''
-    date_start: 2020-01-01
+    date_start: 2024-03-01
     date_end: ''
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      - Led the design and prototyping of GenAI and LLM-based architectures (RAG, semantic search, task automation) for pre-sales engagements across finance, public sector, and industrial domains.
+      - Developed and deployed a Retrieval-Augmented Generation (RAG) proof of concept for a Croatian public institution, enabling AI-generated email responses and document retrieval with chatbot integration, reducing manual processing time by 30%.
+      - Built and showcased low-code/no-code demos for semantic search and NLP pipelines, accelerating client understanding of AI assistants.
+      - Collaborated with IBM Client Engineering and sales teams on pre-sales solutions, GenAI workshop facilitation, and co-design of technical blueprints for AI-powered applications.
+      - Advised on AI governance frameworks and legacy code modernization (COBOL, RPG), translating complex technical solutions into strategic narratives for C-level stakeholders.
+      - Mentored cross-functional teams on machine learning fundamentals and LLM adoption strategies; delivered AI enablement sessions for business partners, training over 100+ individuals, and securing 10+ collaborations.
+      - Led and coordinated international developer teams in pre-sales technical architecture definition and demo development.
+      - Active contributor to thought leadership: editor of AI à la Carte, the CROZ newsletter on AI in production, and co-lead of the AWS Tech Alliance initiative for DACH, including student mentorship and speaking engagements.
+  
+      - Technologies: IBM wx.ai, wx.governance, wx Assistant, watson Discovery, wx code assistant, wx orchestrate, wx Code Assistant for Z, NeuralSeek, Red Hat OpenShift AI, Podman AI, Python, Transformers, RAG, low-code tools, TensorFlow, Pydantic, GitLab
+  - position: Data Scientist
+    company_name: thaltegos (part of Service Plan)
+    company_url: 'https://thaltegos.de/en/'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+    date_start: 2023-08-01
+    date_end: 2024-02-28
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Developed a churn prediction model with over 80% accuracy and initiated the MLOps implementation in Databricks. Contributed to strategic thought leadership with a position paper on the implications and adoption paths of generative AI for marketing applications. Designed and implemented a geospatial ML prototype for optimizing location decisions for an e-mobility platform.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
+      - name: Technical and Programming
+        description: 'Applied Statistics, Econometrics, NLP, RAG, GenAI, Hugging Face, Transformers, Python, R, STATA, Jupyter'
+        #percent: 95
+        #icon: code-bracket
+      - name: Tools and Platforms
+        description: 'Git, IBM watsonx, Red Hat OpenShift AI, Podman AI, Ollama, Jira, Databricks'
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
+      - name: Consulting
+        description: 'Technical pre-sales, Workshop Design, Agile Collaboration, Public Speaking'
+        #percent: 85
+        #icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -126,7 +150,7 @@ skills:
       - name: Cycling with my gravel bike
         description: ''
         percent: 90
-        icon: cpu-chip
+        icon: bike
       - name: Learning how to code better
         description: ''
         percent: 70
@@ -145,27 +169,18 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
+  - title: Fully Funded PhD Bursary (2011-2015).
+    date: '2011-09-01'
+    awarder: Bayes Business School, City University of London (UK)
+  - title: Fully Funded PhD Bursary (2009-2013)
+    date: '2009-09-01'
+    awarder: University of Verona (IT)
+  - title: Outstanding Academic Achievements
     date: '2019-06-30'
     awarder: Stanford University
     icon: hero/academic-cap
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Recognized as top 1% of students graduated from the Faculty of Economics and Business Administration from the University of Verona.
 ---
 
 IBM Champion and experienced AI consultant and data scientist with 15 years of expertise in applied statistics, machine learning, and data-driven system design. I architect and prototype GenAI and NLP solutions—from RAG pipelines to semantic search assistants—while bridging business needs and technical execution across industries. As a practitioner and former university faculty member, I combine in-depth modeling expertise with cross-functional leadership in pre-sales, AI enablement, and enterprise consulting.
