@@ -31,50 +31,34 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '👋 Hi there'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        I am a data scientist based in Munich (DE) and with a career path in academia before turning to practice. I love training models and tinkering with features and parametrization: it may look very old-fashioned and ML-oriented, but, come on, everyone needs a dose of comfort food now and then.
+        
+        - 🔭 I’m currently working on agentic open-source frameworks, AI/GenAI pre-sales, and building demos using IBM wx orchestrate and wx ai
+        - 🌱 I’m currently learning agentic AI design with a particular focus on AgentOps and governance for agents.
+        - 👯 I’m looking to collaborate on inspiring projects for making AI safer for everyone.
+        - 💬 Ask me about walking trails for toddlers in the Alps.
+        - 😄 Pronouns: she/her.
+        - ⚡ Fun fact: I lived in Switzerland, the UK, Denmark, and Germany, but I am Italian deep in my soul, so never ask me if I fancy a pineapple pizza.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+  #- block: collection
+  #  id: papers
+  #  content:
+  #    title: My Academic Stint: My Publications
+  #    filters:
+  #      folders:
+  #        - publications
+  #      featured_only: true
+  #  design:
+  #    view: article-grid
+  #    columns: 2
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: My thinking 
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -100,6 +84,25 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - events
+    design:
+      view: card
+  - block: collection
+    content:
+      title: My Academic Stint: Publications
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
