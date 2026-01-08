@@ -177,10 +177,10 @@ awards:
     awarder: University of Verona (IT)
   - title: Outstanding Academic Achievements
     date: '2019-06-30'
-    awarder: Stanford University
+    awarder: Academy of Management
     icon: hero/academic-cap
     summary: |
-      Recognized as top 1% of students graduated from the Faculty of Economics and Business Administration from the University of Verona.
+      Best reviewer award.
 ---
 
 IBM Champion and experienced AI consultant and data scientist with 15 years of expertise in applied statistics, machine learning, and data-driven system design. I architect and prototype GenAI and NLP solutions—from RAG pipelines to semantic search assistants—while bridging business needs and technical execution across industries. As a practitioner and former university faculty member, I combine in-depth modeling expertise with cross-functional leadership in pre-sales, AI enablement, and enterprise consulting.

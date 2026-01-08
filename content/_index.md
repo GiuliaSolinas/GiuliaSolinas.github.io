@@ -34,10 +34,10 @@ sections:
       title: '👋 Hi there'
       subtitle: ''
       text: |-
-        I am a data scientist based in Munich (DE) and with a career path in academia before turning to practice. I love training models and tinkering with features and parametrization: it may look very old-fashioned and ML-oriented, but, come on, everyone needs a dose of comfort food now and then.
+        Thanks fir visiting this webpage. More about myself: 
         
-        - 🔭 I’m currently working on agentic open-source frameworks, AI/GenAI pre-sales, and building demos using IBM wx orchestrate and wx ai
-        - 🌱 I’m currently learning agentic AI design with a particular focus on AgentOps and governance for agents.
+        - 🔭 I’m currently working on agentic open-source frameworks, AI/GenAI pre-sales.
+        - 🌱 I’m learning AgentOps and governance for agents.
         - 👯 I’m looking to collaborate on inspiring projects for making AI safer for everyone.
         - 💬 Ask me about walking trails for toddlers in the Alps.
         - 😄 Pronouns: she/her.
