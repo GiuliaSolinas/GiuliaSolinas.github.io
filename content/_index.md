@@ -47,7 +47,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: My thinking 
+      title: News 
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
