@@ -1,5 +1,5 @@
 ---
-title: 'Digital Transformation. What is new if anything?'
+title: "Digital Transformation. What is new if anything?"
 
 authors:
 - admin
@@ -20,7 +20,7 @@ abstract: This Special Issue covers original research works that contribute to t
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: [article-journal']
+publication_types: ["article-journal"]
 
 # Standard identifiers for auto-linking
 hugoblox:
@@ -56,8 +56,8 @@ image:
 projects:
 - Digital Transformation
 
-publication: In *Academy of Management Discoveries*
-publication_short: In *AMD*
+publication: "In *Academy of Management Discoveries*"
+publication_short: "In *AMD*"
 
 # slides: example
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
