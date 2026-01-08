@@ -84,7 +84,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: My Academic Stint and Publications
+      title: Publications
       text: ''
       filters:
         folders:
