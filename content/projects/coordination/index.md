@@ -1,19 +1,17 @@
 ---
 title: Coordination in organizations
 date: "2023-01-18T00:00:00Z"
-external_link: ""
 image:
   caption: Photo by Martin Reisch on Unsplash
   focal_point: Smart
 <! -- slides: example -->
+
 summary: Coordination in organizations is a longstanding issue. Which tools can firms adopt to foster coordination? 
+
 tags:
 - Research project
-title: Coordination in organizations
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+
+
 ---
 
 Coordination in organizations is a longstanding issue. Firms can use different tools to coordinate internally and with partners. Yet, the **‘mix-and-match’** of those instruments might prove to be demanding. I am studying this issue in the context of innovation management. 
