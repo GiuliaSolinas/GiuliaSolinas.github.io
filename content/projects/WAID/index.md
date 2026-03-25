@@ -13,7 +13,7 @@ tags:
   - Artificial Intelligence
 ---
 
-## 🌟 My Personal Project — “From Career Change to Community”  
+## Women in AI and Digital — From Career Change to Community 
 
 ### Who I Am & Why I’m Here  
 I didn’t start out in tech. I walked into the world of IT with an academic hat on top, an interest in stats, data, and machine learning, and a green field in front of me where I had no experience. The moment I realized I wasn’t alone, *people*—mentors, fellow women building AI‑driven products, and allies who believed in my potential—started pulling the missing pieces together for me. Their guidance turned my curiosity into a clear identity as an AI practitioner and leader.  
