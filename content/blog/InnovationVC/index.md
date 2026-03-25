@@ -1,12 +1,12 @@
 ---
 title: Innovation capital: Is the tide low?
 summary: Some opinions on the relationship between VC-funds and innovation for summer 2022.
-date: 2023-06-29
+date: 2022-06-29
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Photo by <a href="https://unsplash.com/@wilking?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joshua Wilking</a> on <a href="https://unsplash.com/photos/macro-shot-photography-of-pink-flamingo-Lwor-iYpePY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  caption: 'Photo by Joshua Wilking on Unsplash'
 
 authors:
   - admin

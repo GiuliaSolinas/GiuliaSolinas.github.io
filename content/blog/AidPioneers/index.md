@@ -5,8 +5,9 @@ date: 2023-06-29
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+
 image:
-  caption: 'Photo by <a href="https://unsplash.com/@noaa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NOAA</a> on <a href="https://unsplash.com/photos/white-and-brown-boat-on-black-sand-during-daytime-rxlx9Yi0298?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+  caption: 'Photo by NOAA on Unsplash'
 
 authors:
   - admin
