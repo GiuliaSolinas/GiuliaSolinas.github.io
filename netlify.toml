@@ -57,3 +57,12 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[context.production.ignore]]
+  path = "content/blog/examples/"
+
+[[context.deploy-preview.ignore]]
+  path = "content/blog/examples/"
+
+[[context.branch-deploy.ignore]]
+  path = "content/blog/examples/"

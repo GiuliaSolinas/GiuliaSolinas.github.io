@@ -75,3 +75,6 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+# Exclude blog examples folder
+content/blog/examples/
