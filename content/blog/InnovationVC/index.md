@@ -1,5 +1,5 @@
 ---
-title: Innovation capital: Is the tide low?
+title: 'Innovation capital: Is the tide low?'
 summary: Some opinions on the relationship between VC-funds and innovation for summer 2022.
 date: 2022-06-29
 
