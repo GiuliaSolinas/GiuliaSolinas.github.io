@@ -4,6 +4,10 @@ title: Academic teaching
 date: 2026-01-08
 type: docs
 
+image:
+  caption: Photo by Dom Fou on Unsplash
+  focal_point: Smart
+
 tags:
   - Academia
   - Course

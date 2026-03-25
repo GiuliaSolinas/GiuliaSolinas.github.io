@@ -4,17 +4,14 @@ date: "2023-01-18T00:00:00Z"
 image:
   caption: Photo by Martin Reisch on Unsplash
   focal_point: Smart
-<! -- slides: example -->
 
 summary: Coordination in organizations is a longstanding issue. Which tools can firms adopt to foster coordination? 
 
 tags:
 - Research project
 
-
 ---
-
-Coordination in organizations is a longstanding issue. Firms can use different tools to coordinate internally and with partners. Yet, the **‘mix-and-match’** of those instruments might prove to be demanding. I am studying this issue in the context of innovation management. 
+I researched different facets of coordination in organizations. Firms can use different tools to coordinate internally and with partners. Yet, the **‘mix-and-match’** of those instruments might prove to be demanding. I am studying this issue in the context of innovation management. 
 
 In the setting of IP strategic management, I examine the combination of **tools to coordinate the tasks’ structure with those to incentivize effort** in the patents’ value chain. With Dennis Verhoeven (KU Leuven), we find that for a sample of 20 large organizations, coordination arises from three clusters of tools’ configurations. Each configuration highlights a distinct ‘mix-and-match’ in such a way as to enhance the qualities of paired tools and improve both the granting rate and speed for the patents portfolio. If you are interested in knowing more, read our working paper.
 
