@@ -1,6 +1,6 @@
 ---
 title: Agentic AI
-date: 2026-27-03
+date: 2026-03-27
 image:
   caption: Photo by Shantanu Goyal on Pexel
   focal_point: Smart

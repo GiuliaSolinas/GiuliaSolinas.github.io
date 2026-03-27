@@ -146,15 +146,15 @@ skills:
       - name: Hiking in the Alps with my family
         description: ''
         percent: 80
-        icon: person-simple-walk
+        #icon: person-simple-walk
       - name: Cycling with my gravel bike
         description: ''
         percent: 90
-        icon: bike
+        #icon: bike
       - name: Learning how to code better
         description: ''
         percent: 70
-        icon: book-open
+        #icon: book-open
 
 languages:
   - name: Italian
