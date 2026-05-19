@@ -96,12 +96,22 @@ education:
       
 
 work:
+  - position: Senior AI Consultant
+    company_name: valantic 
+    company_url: 'https://www.valantic.com/en/'
+    company_logo: ''
+    date_start: 2024-03-01
+    date_end: ''
+    summary: |2-
+      - Agentic AI solutions with IBM watsonx orchestrate.
+  
+      - Technologies: IBM wx.ai, wx.governance, wx Assistant, watson Discovery, Bob, wx orchestrate, wx Code Assistant for Z, NeuralSeek, Red Hat OpenShift AI, Podman AI, Python, Transformers, RAG, low-code tools, TensorFlow, Pydantic, GitLab
   - position: Data Science and AI Consultant
     company_name: CROZ
     company_url: 'https://croz.net/'
     company_logo: ''
     date_start: 2024-03-01
-    date_end: ''
+    date_end: '2026-04-30'
     summary: |2-
       - Led the design and prototyping of GenAI and LLM-based architectures (RAG, semantic search, task automation) for pre-sales engagements across finance, public sector, and industrial domains.
       - Developed and deployed a Retrieval-Augmented Generation (RAG) proof of concept for a Croatian public institution, enabling AI-generated email responses and document retrieval with chatbot integration, reducing manual processing time by 30%.
