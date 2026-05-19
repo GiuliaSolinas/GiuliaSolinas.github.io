@@ -5,7 +5,7 @@ date: 2026-05-16
 
 image:
   caption: 'Photo by Xavi Cabrera on Unsplash'
-      '
+  
 
 authors:
   - admin

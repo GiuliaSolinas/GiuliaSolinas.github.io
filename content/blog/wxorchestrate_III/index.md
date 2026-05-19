@@ -5,7 +5,7 @@ date: 2026-05-15
 
 image:
   caption: 'Photo by Lukas Kizur on Unsplash'
-      '
+
 
 authors:
   - admin

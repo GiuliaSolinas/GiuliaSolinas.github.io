@@ -5,7 +5,7 @@ date: 2026-05-14
 
 image:
   caption: 'Photo by Ryno Marais on Unsplash'
-      '
+  
 
 authors:
   - admin
