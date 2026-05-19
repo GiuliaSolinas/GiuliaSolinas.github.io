@@ -100,7 +100,7 @@ work:
     company_name: valantic 
     company_url: 'https://www.valantic.com/en/'
     company_logo: ''
-    date_start: 2024-03-01
+    date_start: 2026-05-01
     date_end: ''
     summary: |2-
       - Agentic AI solutions with IBM watsonx orchestrate.
