@@ -74,11 +74,11 @@ Below you’ll find a concise recap of the roundtable insights, followed by a de
 
 | **What We Explored** | **Why It Matters** | **Key Take‑aways for Practitioners** |
 |----------------------|--------------------|---------------------------------------|
-| **Connecting disparate tools & platforms** (on‑prem, cloud, edge) | Breaks silos, reduces manual hand‑offs, unlocks automation. | • Create a **single source of truth** inventory of services.<br>• Adopt **API‑first** integration layers (e.g., IBM App Connect, Red Hat OpenShift Service Mesh).<br>• Use **event‑driven patterns** (Kafka, IBM Event Streams) for real‑time data flow. |
-| **Common setbacks** (inconsistent APIs, latency spikes, vendor lock‑in) | Project delays, higher TCO, unpredictable performance. | • Implement **contract testing** early (Pact, OpenAPI).<br>• Apply **observability stacks** (Prometheus, IBM Observability by Instana).<br>• Prefer **containerized, stateless services** to mitigate lock‑in. |
-| **Security & visibility** across hybrid landscapes | A breach in one domain can cascade; lack of visibility stalls troubleshooting. | • Deploy **Zero‑Trust networking** and micro‑segmentation.<br>• Centralize **IAM** (IBM Security Verify, IAM Federation).<br>• Unified logging/SIEM (IBM QRadar, LogDNA) for cross‑environment correlation. |
-| **Regulatory & governance pressures** | Uncertainty can freeze innovation; clear guidance can accelerate road‑maps. | • Adopt **policy‑as‑code** (Open Policy Agent, IBM Cloud Pak for Governance).<br>• Map regulations to concrete **data‑flow controls** and automation rules.<br>• Leverage **AI‑driven compliance dashboards** for proactive risk detection. |
-| **AI‑enhanced workflows** (e.g., Maximo, IBM watsonx) | Turn data into actionable insight, speed decision‑making, cut manual effort. | • Use a **data‑fabric** platform (IBM Cloud Pak for Data) to feed trusted AI models.<br>• Start with low‑risk use cases—predictive maintenance, anomaly detection—and expand as confidence grows. |
+| **Connecting disparate tools & platforms** (on‑prem, cloud, edge) | Breaks silos, reduces manual hand‑offs, unlocks automation. | • Create a **single source of truth** inventory of services.<br>• Adopt **API‑first** integration layers.<br>• Use **event‑driven patterns** (Kafka, IBM Event Streams) for real‑time data flow. |
+| **Common setbacks** (inconsistent APIs, latency spikes, vendor lock‑in) | Project delays, higher TCO, unpredictable performance. | • Implement **contract testing** early.<br>• Apply **observability stacks** (Prometheus, IBM Observability by Instana).<br>• Prefer **containerized, stateless services** to mitigate lock‑in. |
+| **Security & visibility** across hybrid landscapes | A breach in one domain can cascade; lack of visibility stalls troubleshooting. | • Deploy **Zero‑Trust networking** and micro‑segmentation.<br>• Centralize **IAM**.<br>• Unified logging/SIEM (IBM QRadar) for cross‑environment correlation. |
+| **Regulatory & governance pressures** | Uncertainty can freeze innovation; clear guidance can accelerate road‑maps. | • Adopt **policy‑as‑code**.<br>• Map regulations to concrete **data‑flow controls** and automation rules.<br>• Leverage **AI‑driven compliance dashboards** for proactive risk detection. |
+| **AI‑enhanced workflows** (e.g.,with Maximo and IBM watsonx) | Turn data into actionable insight, speed decision‑making, cut manual effort. | • Use a **data‑fabric** platform to feed trusted AI models.<br>• Start with low‑risk use cases—predictive maintenance, anomaly detection—and expand as confidence grows. |
 
 
 
@@ -95,7 +95,7 @@ Modern enterprises run on a patchwork of **on‑premises servers, public clouds,
 
 | Pitfall | Real‑world Symptom | Remedy (from the discussion) |
 |---------|--------------------|------------------------------|
-| Inconsistent API contracts | “The integration failed because the vendor changed the schema overnight.” | Adopt **contract testing** (Pact, OpenAPI) and versioned API gateways. |
+| Inconsistent API contracts | “The integration failed because the vendor changed the schema overnight.” | Adopt **contract testing** and versioned API gateways. |
 | Latency spikes in cross‑cloud calls | “Requests take >5 s when hitting an external SaaS.” | Move to **event‑driven architectures** and place compute closer to the data source (edge). |
 | Security blind spots | “We discovered a compromised edge node weeks later.” | Implement **Zero‑Trust** policies and unify logging with SIEM. |
 | Regulatory uncertainty | “New data‑localization rules forced us to halt a migration.” | Use **policy‑as‑code** and AI‑enabled compliance dashboards to pre‑emptively adapt. |
